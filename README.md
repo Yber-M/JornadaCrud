@@ -1,2 +1,2 @@
-# CRUD del Jornada
+# CRUD de Jornada
 * Servicio de generar un comprobante de pago
